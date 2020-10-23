@@ -3,3 +3,4 @@ array.forEach(element => {
     
 });
 b = 900
+test = "sdfsdf"
